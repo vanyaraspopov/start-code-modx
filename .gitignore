@@ -1,0 +1,27 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea/
+*.iml
+out
+gen
+
+# ignore MODX files
+/assets/*
+/connectors/*
+/core/*
+/manager/*
+/setup/*
+/config.core.php
+/index.php
+/.htaccess
+
+# ignore node modules
+/node_modules/
+
+# do not ignore
+!/assets/dev/
+!/assets/web/
+!/core/elements/

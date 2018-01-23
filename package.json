@@ -1,0 +1,10 @@
+{
+  "name": "start-code-modx",
+  "version": "1.0.0",
+  "description": "The attempting to build a starting template for nice developmnent on MODX Revo",
+  "author": "RV",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
