@@ -1,7 +1,7 @@
 {
   "name": "start-code-modx",
   "version": "1.0.0",
-  "description": "The attempting to build a starting template for nice developmnent on MODX Revo",
+  "description": "The attempting to build a starting template for nice development on MODX Revo",
   "author": "RV",
   "license": "ISC",
   "devDependencies": {
